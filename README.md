@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chelsyyolanori07&label=Profile%20views&color=0e75b6&style=flat" alt="chelsyyolanori07" /> </p>
 
-- 🌱 I’m currently learning **Python** because currently I am interested in learning AI and Machine Learning 🤖
+- 🌱 I'am learning **Python** and some basics **AI** right now because currently I'm interested in learning AI and Machine Learning 🤖
 - 📫 How to reach me(I don't have linkedn account just yet so i am using my email): **chelsyyolanori07@gmail.com**
 - ⚡ Fun fact: I love cats, and I like to draw (still a beginner though hahaha) :)
 
