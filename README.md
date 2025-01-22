@@ -1,27 +1,18 @@
-![MasterHead](./My%20Readme%20src/Laying%20on%20grass.gif)
+![MasterHead](./My%20Readme%20src/A%20Chill%20Cat%20Sleeping%20Banner%20.gif)
 
 <div align="center">
   <img src="./My Readme src/My Readme Profile Picture aka Naruto and Kurama hehe.png" width="25%" align="right" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=2000&pause=300&color=78e6f5&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+World;My+name+is+Chelsy+Yola+Nori+:)" width="70%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=2000&pause=300&color=78e6f5&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+World;My+name+is+Chelsy+but+you+can+call+me+Maki:)" width="70%"/>
 </div>
 
-<h3 align="center">I am a Mathematics Major student currently self-studying programming at my own pace</h3>
+<h3 align="center">I am a Mathematics Major student and doing self-studying programming at my own silly lil pace..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chelsyyolanori07&label=Profile%20views&color=0e75b6&style=flat" alt="chelsyyolanori07" /> </p>
 
-- 🌱 I’m currently learning **Python** because I am interested in learning AI and Machine Learning.
-- 📫 How to reach me: **chelsyyolanori07@gmail.com**
-- ⚡ Fun fact: **I love cats, and I like to draw (still a beginner though hahaha) :)**
-
-<img src="./My Readme src/A Chill Cat Sleeping.gif" width="25%" align="right" />
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/chelsyyolanori07" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chelsyyolanori07" height="30" width="40" />
-  </a>
-</p>
+- 🌱 I’m currently learning **Python** because currently I am interested in learning AI and Machine Learning 🤖
+- 📫 How to reach me(I don't have linkedn account just yet so i am using my email): **chelsyyolanori07@gmail.com**
+- ⚡ Fun fact: I love cats, and I like to draw (still a beginner though hahaha) :)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -58,8 +49,8 @@
 
 <br>
 
-<p align="center">**Thank you so much for visiting my silly lil gitHub profile! Hope you have a great day/night :)) </p>
+<p align="center">Thank you so much for visiting my silly lil gitHub profile, i hope you have a great day/night :)) </p>
 
 <br>
 
-<img src="./My Readme src/Cat-Playing-no-background.gif" width="25%" align="right" />
+<img src="./My Readme src/Cat-Playing-no-background.gif" width="60%" align="center" />
