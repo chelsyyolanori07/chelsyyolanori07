@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/chelsyyolanori07/chelsyyolanori07/main/My%20Readme%20src/My%20Readme%20Profile%20Picture%20aka%20Naruto%20and%20Kurama%20hehe.png)
+![MasterHead](https://raw.githubusercontent.com/chelsyyolanori07/chelsyyolanori07/main/My%20Readme%20src/A%20Chill%20Cat%20Sleeping%20Banner%20.gif)
 
 <div align="center">
   <img src="./My Readme src/My Readme Profile Picture aka Naruto and Kurama hehe.png" width="25%" align="right" />
