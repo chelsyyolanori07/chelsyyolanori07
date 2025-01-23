@@ -1,9 +1,9 @@
-![MasterHead](./My%20Readme%20src/A%20Chill%20Cat%20Sleeping%20Banner%20.gif)
+![MasterHead](https://github.com/chelsyyolanori07/chelsyyolanori07/blob/main/My%20Readme%20src/A%20Chill%20Cat%20Sleeping%20Banner%20.gif)
 
 <div align="center">
   <img src="./My Readme src/My Readme Profile Picture aka Naruto and Kurama hehe.png" width="25%" align="right" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=2000&pause=300&color=78e6f5&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1400&height=140&lines=Hello+World;My+name+is+Chelsy+and+you+can+call+me+Maki:)" width="70%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=2000&pause=300&color=78e6f5&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1400&height=140&lines=Hello+World;My+name+is+Chelsy+and+you+can+call+me+Maki+:)" width="70%"/>
 </div>
 
 <h3 align="center">I am a Mathematics Major student and doing self-studying programming at my own silly lil pace..</h3>
@@ -54,6 +54,6 @@
 <br>
 
 <div align="center">
-    <img src="./My Readme src/Cat-Playing-no-background.gif" width="100%" />
+    <img src="https://github.com/chelsyyolanori07/chelsyyolanori07/blob/main/My%20Readme%20src/Cat-Playing-no-background.gif" width="100%" />
 </div>
 
