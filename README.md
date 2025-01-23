@@ -1,4 +1,4 @@
-![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtjbmNwbmN4OWx4cmxlbDJhNnoydzN2ZWYzN3c0NW9ncXlpaHdqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vwSuQT1AyfEH3KTUzq/giphy.gif)
+![MasterHead](https://raw.githubusercontent.com/chelsyyolanori07/chelsyyolanori07/main/My%20Readme%20src/A%20Chill%20Cat%20Sleeping%20Banner%20.gif)
 
 <div align="center">
   <img src="./My Readme src/My Readme Profile Picture aka Naruto and Kurama hehe.png" width="25%" align="right" />
@@ -54,6 +54,6 @@
 <br>
 
 <div align="center">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmU4Z2NyNmEwcG1wcDJzN3RuYjc4eDJuYTVucDViMzI1cjN1d3R5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TMPAT4meMCFoJtJKcg/giphy.gif" width="100%" />
+    <img src="https://raw.githubusercontent.com/chelsyyolanori07/chelsyyolanori07/main/My%20Readme%20src/Cat-Playing-no-background.gif" width="100%" />
 </div>
 
