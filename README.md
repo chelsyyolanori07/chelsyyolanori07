@@ -54,6 +54,6 @@
 <br>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/chelsyyolanori07/chelsyyolanori07/main/My%20Readme%20src/Cat-Playing-no-background.gif" width="80%" />
+    <img src="https://raw.githubusercontent.com/chelsyyolanori07/chelsyyolanori07/main/My%20Readme%20src/Cat-Playing-no-background.gif" width="100%" />
 </div>
 
