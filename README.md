@@ -10,12 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chelsyyolanori07&label=Profile%20views&color=0e75b6&style=flat" alt="chelsyyolanori07" /> </p>
 
-- 🌱 I'am learning **Python** and some basics **AI** right now because currently I'm interested in learning AI and Machine Learning 🤖
-- 📫 How to reach me(I don't have linkedn account just yet so i am using my email): **chelsyyolanori07@gmail.com**
-- ⚡ Fun fact: I love cats, and I like to draw (still a beginner though hahaha) :)
+- 🌱 Currently I'am doing self studying **AI** and **Machine Learning** 🤖
+- 📫 How to reach me: [chelsyyolanori07@gmail.com](mailto:chelsyyolanori07@gmail.com)
+- ⚡ Fun fact: I really really love cats cuz i suffer from OCD (Obsessive Cats Disorder) hahaha :3, and I like to draw (still a beginner though hahaha) :)
+- 🎨 Honestly I also have a silly lil channel where i say my silly lil view about how I see the world with the help of my fav drawing character named Boo and he is just a lil ghost ([text](https://www.youtube.com/@boolifenotes)) in case you want to check it out 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
@@ -45,6 +46,9 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://jupyter.org/assets/main-logo.svg" alt="jupyter notebook" width="40" height="40"/>
   </a>
 </p>
 
