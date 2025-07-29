@@ -48,7 +48,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://i.imgur.com/uqZ6AOZ.png" alt="jupyter notebook" width="40" height="40"/>
+    <img src="./My Readme src/jupyter.png" alt="jupyter notebook" width="40" height="40"/>
   </a>
 </p>
 
