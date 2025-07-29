@@ -49,7 +49,9 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chelsyyolanori07&show_icons=true&locale=en" alt="chelsyyolanori07" /></p>
+<div align="center">
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=chelsyyolanori07&show_icons=true&locale=en" alt="chelsyyolanori07" /></p>
+</div>
 
 <br>
 
