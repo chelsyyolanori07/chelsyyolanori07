@@ -49,10 +49,6 @@
   </a>
 </p>
 
-<div align="center">
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=chelsyyolanori07&show_icons=true&locale=en" alt="chelsyyolanori07" /></p>
-</div>
-
 <br>
 
 <p align="center">Thank you so much for visiting my silly lil gitHub profile, i hope you have a great day/night :)) </p>
