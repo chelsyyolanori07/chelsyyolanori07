@@ -24,29 +24,30 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chelsyyolanori07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chelsyyolanori07&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chelsyyolanori07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chelsyyolanori07&theme=tokyonight&hide_border=true" height="180"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelsyyolanori07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelsyyolanori07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</div>
 
 ---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,css,git,html,js,linux,python,react,tailwind,jupyter&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cpp,css,git,html,js,linux,python,react,tailwind&perline=10" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50"/>
 </div>
 
 ---
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="center">
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chelsyyolanori07&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
+</div>
 
 ---
 
