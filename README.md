@@ -10,12 +10,33 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chelsyyolanori07&label=Profile%20views&color=0e75b6&style=flat" alt="chelsyyolanori07" /> </p>
 
-- 🌱 Currently I'am doing self studying **AI** and **Machine Learning** 🤖
+- 🌱 Currently self-studying **AI** and **Machine Learning** 🤖
 - 📫 How to reach me: [chelsyyolanori07@gmail.com](mailto:chelsyyolanori07@gmail.com)
-- ⚡ Fun fact: I really really love cats cuz i suffer from OCD (Obsessive Cats Disorder) hahaha :3, and I like to draw (still a noobie though) :)
-- 🎨 Honestly I also have a silly lil channel where i say my silly lil view about how I see the world with the help of my fav drawing character named Boo and he is just a lil ghost ([Boo's lifenotes](https://www.youtube.com/@boolifenotes)) in case you want to check it out :)
+- ⚡ Fun fact: I really really love cats because I suffer from OCD (Obsessive Cats Disorder) hahaha :3, and I like to draw (still a noobie though) :)
+- 🎨 I have a silly lil channel where I share my silly lil view on how I see the world, with the help of my fav drawing character **Boo** — just a lil ghost who gets it.
+  👉 [**Boo's Lifenotes**](https://www.youtube.com/@boolifenotes)
+- 🐱 I also run a channel called **Ailurophile Story** — a cozy corner where I document my encounters with stray cats: feeding them, petting them, and just being there for them. Because every stray deserves a little love. 🍚🐾
+  👉 [**Ailurophile Story**](https://www.youtube.com/@ailurophilestory) *(feel free to swap this URL with your actual channel link!)*
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- Clear float before stats section -->
+<div style="clear:both"></div>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chelsyyolanori07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chelsyyolanori07&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelsyyolanori07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+</p>
+
+---
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -49,13 +70,21 @@
   </a>
 </p>
 
+---
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chelsyyolanori07&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+
+---
+
 <br>
 
-<p align="center">Thank you so much for visiting my silly lil gitHub profile, i hope you have a great day/night :)) </p>
+<p align="center">Thank you so much for visiting my silly lil GitHub profile, I hope you have a great day/night :))</p>
 
 <br>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/chelsyyolanori07/chelsyyolanori07/main/My%20Readme%20src/Cat-Playing-no-background.gif" width="100%" />
 </div>
-
