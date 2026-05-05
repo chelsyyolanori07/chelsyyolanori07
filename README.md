@@ -25,12 +25,12 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chelsyyolanori07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=chelsyyolanori07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chelsyyolanori07&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelsyyolanori07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=chelsyyolanori07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </div>
 
 ---
